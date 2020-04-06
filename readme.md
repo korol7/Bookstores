@@ -2,7 +2,6 @@
 |author：korol7|
 |--|
 ------
-[toc]
 ## 技术点：Django+mysql
 ## 功能
 - 1.实现了增加图书，存入数据库
