@@ -8,7 +8,7 @@ def homepage(request):
     return render(request, 'index.html')
 
 
-#添加新书
+#添加新书VSCode + Django：objects报错
 def new_book(request):
     if request.method == 'GET':
         return render(request, 'new_book.html')
